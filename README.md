@@ -51,6 +51,7 @@
 
 ## 🔥 精选项目
 
+- 🌐 [njuvtk.github.io](https://github.com/njuvtk/njuvtk.github.io)：我的个人博客，使用 Astro 构建，内容涵盖技术分享、生活记录等。
 - 🧾 [Astro-Typography-NJUV](https://github.com/njuvtk/astro-typography-njuv)：活版印字主题的 Astro 移植版本，注重中文排版和阅读体验。
 - 🤖 [Open-Wegram-Bot](https://github.com/njuvtk/open-wegram-bot)：零费用的 Telegram 双向私聊机器人，支持多种功能。
 
