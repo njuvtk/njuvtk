@@ -31,7 +31,7 @@
 ## 📫 联系我
 
 - Email: `njuvtk@outlook.com`
-- Blog: [https://www.njuv.pp.ua](https://www.njuv.pp.ua)
+- Blog: [njuv.pp.ua](https://njuv.pp.ua)
 
 ---
 
