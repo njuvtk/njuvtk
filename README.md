@@ -20,24 +20,10 @@
 
 ---
 
-## 💞️ 合作方向
-
-- 🤝 博客系统、友链管理、无后端/低代码应用
-- 🛠️ 自托管项目优化、开源 Bot 系统
-- 🧠 AI 工具或插件类项目（特别是 GPT、Midjourney 等相关）
-
----
-
 ## 📫 联系我
 
 - Email: `njuvtk@outlook.com`
 - Blog: [njuv.pp.ua](https://njuv.pp.ua)
-
----
-
-## 😄 代称
-
-- He / Him
 
 ---
 
