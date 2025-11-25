@@ -43,10 +43,4 @@
 
 ---
 
-## 📊 GitHub 统计
-
-![njuvtk's GitHub stats](https://github-readme-stats.vercel.app/api?username=njuvtk&show_icons=true&theme=radical)
-
----
-
 > ✨ 这个仓库是我 GitHub Profile 的主页，感谢你的访问！
